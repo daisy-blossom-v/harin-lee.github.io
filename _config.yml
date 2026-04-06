@@ -4,8 +4,8 @@ title_separator          : "-"
 name                     : &name "Harin Lee"
 description              : &description "People Analytics | Human-AI Collaboration | Industrial Engineering"
 url                      : "https://daisy-blossom-v.github.io"
-baseurl                  : "/harin-lee.github.io"
-repository               : "daisy-blossom-v/harin-lee.github.io"
+baseurl                  : ""
+repository               : "daisy-blossom-v/daisy-blossom-v.github.io"
 
 author:
   name             : "Harin Lee"
