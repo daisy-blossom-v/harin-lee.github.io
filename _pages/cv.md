@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-**[Download CV (PDF)](/files/Harin_Lee_Resume.pdf)**
+**[Download CV (PDF)]({{ site.baseurl }}/files/Harin_Lee_Resume.pdf)**
 
 ## Education
 
@@ -22,19 +22,20 @@ redirect_from:
 ## Professional Experience
 
 **Shinsegae I&C** · Seoul, Republic of Korea
-HR Specialist (Assistant Manager), Human Resources Team · Feb. 2022 – Present
+<br>HR Specialist (Manager), Human Resources Team · Feb. 2022 – Present
 *IT solutions & services firm · ~KRW 700B revenue · ~1,400 employees*
 
 - **Data-driven Compensation Analysis**: Administered end-to-end payroll cycles (salary, bonus, signing/retention bonuses, severance) using SAP; performed quantitative analysis of workforce cost structure, achieving a 10% reduction in benefits expenditure through evidence-based restructuring.
+- **HR Dashboard Development**: Designed and built internal HR analytics dashboards to visualize workforce metrics, enabling data-informed decision-making across the HR team.
 - **Performance Evaluation & Organizational Metrics**: Designed and operated KPI evaluation frameworks for department heads; identified inefficiencies through HR cost analysis, contributing to a 20% reduction in total personnel expenses against organizational targets.
 - **Flexible Work System Design**: Planned and operationalized selective working-hours and compensatory leave programs; achieved 100% adoption (excluding field/sales) and reduced overtime compensation costs by ~20% annually. Administered ~12 system improvement items per year in HR information systems.
 - **Talent Acquisition & Learning**: Directed annual new-hire recruitment strategy and on-demand experienced-hire pipelines; designed and delivered onboarding programs (~6 cohorts/year), including AI-integrated onboarding curriculum in 2026.
 - **Regulatory Compliance & Government Relations**: Led 2025 Ministry of Employment and Labor audit response, resulting in zero violations; authored formal compliance reports and coordinated on-site inspections leading to three Presidential Commendations (Work-Life Balance, Top Employment, Family-Friendly Excellent Enterprise).
 - **Organizational Culture Diagnostics**: Conducted annual organizational health surveys; designed and executed a long-hours reduction campaign that achieved a **13% decrease in overtime hours** (2024).
 
-**Mercer Korea** · Seoul, Republic of Korea
-Research Assistant, Total Rewards Solutions · Jun. 2020 – Oct. 2020
-*Global HR consulting firm*
+**Mercer** (Seoul Office) · Seoul, Republic of Korea
+<br>Research Assistant, Total Rewards Solutions · Jun. 2020 – Oct. 2020
+*A global leader in HR consulting, a business of Marsh McLennan (NYSE: MMC)*
 
 - Conducted compensation benchmarking and statistical analysis across ~300 domestic and international firms to derive industry-level average wage estimates.
 - Researched HR policies of multinational corporations and synthesized findings into structured Compensation Reports for client delivery.

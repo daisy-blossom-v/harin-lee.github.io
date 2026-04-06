@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an HR professional with over four years of experience in data-driven human resource management at **Shinsegae I&C**, a large-scale IT firm in Seoul. My work spans compensation analysis, performance evaluation, talent acquisition, and organizational culture — with a focus on applying quantitative methods to workforce operations.
+I am an HR professional with over five years of experience in data-driven human resource management. My work spans compensation analysis, performance evaluation, talent acquisition, and organizational culture — with a focus on applying quantitative methods to workforce operations.
 
 ## Research Interests
 
@@ -19,16 +19,18 @@ I am an HR professional with over four years of experience in data-driven human 
 ## Experience
 
 **Shinsegae I&C** · Seoul, Republic of Korea
-HR Specialist (Assistant Manager), Human Resources Team · Feb. 2022 – Present
+<br>HR Specialist (Manager), Human Resources Team · Feb. 2022 – Present
 
 - Data-driven compensation analysis & payroll administration using SAP
+- Built internal HR analytics dashboards for workforce metrics and decision-making
 - KPI evaluation framework design for department heads
 - Flexible work system planning — achieved 100% adoption and ~20% overtime cost reduction
 - Talent acquisition strategy & AI-integrated onboarding curriculum (2026)
 - Led 2025 Ministry of Employment and Labor audit — zero violations, three Presidential Commendations
 
-**Mercer Korea** · Seoul, Republic of Korea
-Research Assistant, Total Rewards Solutions · Jun. 2020 – Oct. 2020
+**Mercer** (Seoul Office) · Seoul, Republic of Korea
+<br>Research Assistant, Total Rewards Solutions · Jun. 2020 – Oct. 2020
+*A global leader in HR consulting, a business of Marsh McLennan*
 
 - Compensation benchmarking and statistical analysis across ~300 firms
 - Structured compensation report delivery for multinational clients
