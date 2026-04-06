@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD applicant in **Industrial Engineering & Management Sciences**, with research interests in People Analytics, Human-AI Collaboration in Organizations, and Computational Social Science.
-
-With over four years of experience as an HR Specialist at a large-scale IT firm and prior experience as a Research Assistant at **Mercer Korea**, I bring a combination of large-scale organizational data experience and formal technical training in Python and SQL to my research agenda.
+I am an HR professional with over four years of experience in data-driven human resource management at **Shinsegae I&C**, a large-scale IT firm in Seoul. My work spans compensation analysis, performance evaluation, talent acquisition, and organizational culture — with a focus on applying quantitative methods to workforce operations.
 
 ## Research Interests
 
@@ -18,16 +16,27 @@ With over four years of experience as an HR Specialist at a large-scale IT firm 
 - **Algorithmic HR Systems** — Designing data-driven human resource frameworks grounded in causal inference
 - **Computational Social Science** — Using large-scale survey data to study labor and technology
 
-## Background
+## Experience
 
-My research interest grew directly out of practice. At **Shinsegae I&C**, managing HR operations for ~1,400 employees, I observed how generative AI tool adoption produced measurable shifts in work patterns — including a 13% reduction in overtime hours following a campaign I designed in 2024. This sparked the question: what is the actual causal mechanism behind these shifts, and how can organizations systematically leverage them?
+**Shinsegae I&C** · Seoul, Republic of Korea
+HR Specialist (Assistant Manager), Human Resources Team · Feb. 2022 – Present
 
-Earlier, at **Mercer Korea**, I conducted compensation benchmarking across ~300 domestic and international firms — my first exposure to large-scale labor market data and structured analytical reporting.
+- Data-driven compensation analysis & payroll administration using SAP
+- KPI evaluation framework design for department heads
+- Flexible work system planning — achieved 100% adoption and ~20% overtime cost reduction
+- Talent acquisition strategy & AI-integrated onboarding curriculum (2026)
+- Led 2025 Ministry of Employment and Labor audit — zero violations, three Presidential Commendations
 
-My formal technical training — a company-sponsored 6-month Python and SQL program — allows me to operationalize these domain insights quantitatively.
+**Mercer Korea** · Seoul, Republic of Korea
+Research Assistant, Total Rewards Solutions · Jun. 2020 – Oct. 2020
+
+- Compensation benchmarking and statistical analysis across ~300 firms
+- Structured compensation report delivery for multinational clients
 
 ## Education
 
-**Ewha Womans University** · Seoul, Republic of Korea
-B.A. in Chinese Language & Literature; B.A. in Economics (Double Major)
-Mar. 2016 – Aug. 2020 · GPA: 3.65 / 4.50
+| | |
+|---|---|
+| **Ewha Womans University** | Seoul, Republic of Korea |
+| B.A. in Chinese Language & Literature | Mar. 2016 – Aug. 2020 |
+| B.A. in Economics (Double Major) | GPA: 3.65 / 4.50 |

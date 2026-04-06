@@ -7,13 +7,15 @@ redirect_from:
   - /resume
 ---
 
-**[Download CV (PDF)](/files/harin_lee_resume.pdf)**
+**[Download CV (PDF)](/files/Harin_Lee_Resume.pdf)**
 
 ## Education
 
-**Ewha Womans University** · Seoul, Republic of Korea
-B.A. in Chinese Language & Literature; B.A. in Economics (Double Major) · GPA: 3.65 / 4.50
-Mar. 2016 – Aug. 2020
+| | |
+|---|---|
+| **Ewha Womans University** | Seoul, Republic of Korea |
+| B.A. in Chinese Language & Literature | Mar. 2016 – Aug. 2020 |
+| B.A. in Economics (Double Major) | GPA: 3.65 / 4.50 |
 
 ---
 
