@@ -3,9 +3,9 @@ title                    : "Harin Lee"
 title_separator          : "-"
 name                     : &name "Harin Lee"
 description              : &description "People Analytics | Human-AI Collaboration | Industrial Engineering"
-url                      : "https://harin-lee.github.io"
-baseurl                  : ""
-repository               : "harin-lee/harin-lee.github.io"
+url                      : "https://daisy-blossom-v.github.io"
+baseurl                  : "/harin-lee.github.io"
+repository               : "daisy-blossom-v/harin-lee.github.io"
 
 author:
   name             : "Harin Lee"
