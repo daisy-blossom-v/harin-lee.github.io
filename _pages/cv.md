@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+**[Download CV (PDF)](/files/harin_lee_resume.pdf)**
+
 ## Education
 
 **Ewha Womans University** · Seoul, Republic of Korea
